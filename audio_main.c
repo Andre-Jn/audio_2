@@ -27,5 +27,7 @@ int main()
 	status = vcsystem_audio_deinit(audio_hdl);	
 	/* audio */
 
+
+	printf("Test Is Ok\n");
 	return 0;
 }
