@@ -2,7 +2,7 @@
 #include "vcsystem_audio.h"
 
 int main()
-{
+//{
 	/* audio */
 	status_t status = OSA_SOK;
 	vcsystem_audio_object_t audio_obj;
